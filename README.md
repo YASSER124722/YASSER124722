@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-logo-url.com/AB-logo.png](https://github.com/YASSER124722/YASSER124722/upload/main#:~:text=06d5f5ca%2Da260%2D439e%2D8193%2D3a038eed9917.jpg)" width="120" alt="AB Logo"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/AB-logo.png?raw=true" width="120" alt="AB Logo"/>
 </p>
 
 # Hi, I'm Yasser Boulenache 👋
@@ -14,22 +14,28 @@
 
 ## 🛠 Skills
 
+### Frontend & Mobile
 <p align="center">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <!-- Mobile -->
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/-Pascal-FF69B4?style=flat&logo=pascal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
-  <!-- Tools -->
+</p>
+
+### Programming Languages
+<p align="center">
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/pascal.png?raw=true" width="80" style="border-radius:50%;" alt="Pascal"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/c.png?raw=true" width="80" style="border-radius:50%;" alt="C"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/cpp.png?raw=true" width="80" style="border-radius:50%;" alt="C++"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/java.png?raw=true" width="80" style="border-radius:50%;" alt="Java"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/javascript.png?raw=true" width="80" style="border-radius:50%;" alt="JavaScript"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/python.png?raw=true" width="80" style="border-radius:50%;" alt="Python"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/sql.png?raw=true" width="80" style="border-radius:50%;" alt="SQL"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/html.png?raw=true" width="80" style="border-radius:50%;" alt="HTML"/>
+  <img src="https://github.com/YASSER124722/YASSER124722/blob/main/logos/css.png?raw=true" width="80" style="border-radius:50%;" alt="CSS"/>
+</p>
+
+### Tools
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
