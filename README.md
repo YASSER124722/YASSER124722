@@ -49,6 +49,6 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="[mailto:yasser.boulenache19@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=GTvVlcRzBxxswvVBPHhbTpKsqGswhvtxgGSVqTvzCtLVlMsJtQDtFdNdrjwGMZZPjxRsSkllVPZlh)"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="[www.linkedin.com/in/yasser-boulenache06](https://www.linkedin.com/in/yasser-boulenache06/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#sent?compose=GTvVlcRzBxxswvVBPHhbTpKsqGswhvtxgGSVqTvzCtLVlMsJtQDtFdNdrjwGMZZPjxRsSkllVPZlh"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yasser-boulenache06/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
