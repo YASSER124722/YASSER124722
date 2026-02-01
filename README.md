@@ -21,7 +21,7 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-Pascal-FF69B4?style=flat&logo=pascal&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-python-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
